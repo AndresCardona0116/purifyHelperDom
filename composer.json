@@ -1,5 +1,5 @@
 {
-    "name": "Domina/purify-helper",
+    "name": "domina/purify-helper",
     "description": ":validación de contenido para SQL injection y XSS, de Domina",
     "license": "MIT",
     "authors": [

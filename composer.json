@@ -1,0 +1,20 @@
+{
+    "name": "Domina/purify-helper",
+    "description": ":validación de contenido para SQL injection y XSS, de Domina",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": ":AC",
+            "email": "andres.cardona@domina.com.co"
+        }
+    ],
+    "require": {
+        "stevebauman/purify": "^3.0",
+        "php": "^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Domina\\PurifyHelper\\": "src/"
+        }
+    }
+}
